@@ -3,9 +3,9 @@ package blog
 import (
 	"fmt"
 
-	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmonaut/blog/x/blog/keeper"
 	"github.com/cosmonaut/blog/x/blog/types"
+	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
 )
 
